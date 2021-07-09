@@ -1,4 +1,6 @@
 public class Printer {
+    //homework done
+
     private static int textCount;
     private static int numberCount;
     private static int pagesCount;

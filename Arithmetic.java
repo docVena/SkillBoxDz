@@ -1,4 +1,5 @@
 public class Arithmetic {
+    //homework done
     private static int a =1;
     private static int b = 2;
     public static int sum =a + b;
